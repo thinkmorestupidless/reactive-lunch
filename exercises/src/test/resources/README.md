@@ -1,6 +1,5 @@
-the-actor-lifecycle
+the-actor-system
 
-## Exercise 2 - The Actor Lifecycle
+## Exercise 1 > The Actor System
 
-This is a first exercise. Put your code in this project and
-create new projects to add subsequent exercises
+Shows the simplest possible Actor System; A single Actor which receives a single type of message.
